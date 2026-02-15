@@ -44,6 +44,7 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Aditi-coder439&theme=ocean_dark&hide_border=true)
 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&theme=ocean_dark&hide_border=true&layout=compact)
 
 
@@ -53,3 +54,8 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Aditi-coder439/Aditi-coder439/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
