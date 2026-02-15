@@ -6,12 +6,6 @@
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
 Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react-dark&hide_border=true&area=true" />
-
-
-
-
 ---
 
 # 💻 Tech Stack
@@ -44,14 +38,13 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Aditi-coder439&theme=ocean_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&theme=react&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react&hide_border=true&area=true&height=250" width="49%" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Aditi-coder439&theme=ocean_dark&hide_border=true)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&theme=ocean_dark&hide_border=true&layout=compact)
 
 
 ---
