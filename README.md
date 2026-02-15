@@ -7,7 +7,8 @@ I am a passionate and self-driven developer focused on building scalable and imp
 Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=dracula&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=tokyo-night&hide_border=true&area=true&custom_title=Aditi's%20Contribution%20Graph" />
+
 
 
 ---
@@ -58,7 +59,7 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
 
 ---
-## 🐍 My Contributions Snake
+ My Contributions Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditi-coder439/Aditi-coder439/output/github-contribution-grid-snake.svg" />
