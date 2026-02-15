@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditi 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 - 🎓 3rd Year B.Tech (Information Technology) Student  
 - 💻 Building full-stack applications using the MERN stack (MongoDB, Express, React, Node.js)  
-- ☕ Strong focus on Java & Data Structures for problem-solving  
+- ☕ Strong focus on Java & Data Structures  
 - 🧠 Interested in System Design & scalable backend architectures  
 - 📈 Continuously learning and improving  
 
@@ -45,11 +45,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&layout=compact&theme=github_dark" />
 </p>
 
 ---
