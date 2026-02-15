@@ -47,14 +47,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-coder439&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=github-dark-blue" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&layout=compact&theme=github_dark" />
 </p>
 
----
 
 ## 📫 Connect With Me
 
