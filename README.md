@@ -41,8 +41,7 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
+  
 </p>
 
 
