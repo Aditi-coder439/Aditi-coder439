@@ -10,7 +10,7 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react&hide_border=true&days=14" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react&hide_border=true&area=true&hide_title=true" />
 
 
 </p>
