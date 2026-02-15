@@ -37,16 +37,16 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
 ---
-
-## 📊 GitHub Analytics
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&theme=radical&hide_border=true" width="32%" />
-  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=radical&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&theme=radical&hide_border=true&layout=compact" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
 </p>
+
+
+
 
 
 ---
