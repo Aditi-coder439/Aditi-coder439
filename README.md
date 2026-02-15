@@ -8,6 +8,12 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 📚 Continuous learner  
 📈 Growth-oriented mindset  
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=ocean_dark&hide_border=true&area=true" />
+</p>
+
 
 ---
 
