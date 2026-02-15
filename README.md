@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FFB3&height=250&section=header&text=Aditi%20Hazra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20|%20DSA%20|%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
+</p>
+
 # 💫 About Me
 
 🎓 B.Tech (Information Technology) | 3rd Year  
@@ -5,9 +9,7 @@
 
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
 Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react-dark&hide_border=true&area=true />
-</p>
+
 
 ---
 
