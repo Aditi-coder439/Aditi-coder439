@@ -7,7 +7,8 @@ I am a passionate and self-driven developer focused on building scalable and imp
 Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=tokyo-night&hide_border=true&area=true&custom_title=Aditi's%20Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react-dark&hide_border=true&area=true" />
+
 
 
 
