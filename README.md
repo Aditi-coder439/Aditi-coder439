@@ -63,8 +63,9 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
  My Contributions Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditi-coder439/Aditi-coder439/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aditi-coder439/Aditi-coder439/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
 
