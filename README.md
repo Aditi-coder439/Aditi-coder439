@@ -6,6 +6,9 @@
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
 Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react&hide_border=true&area=true&days=56" />
+
 ---
 
 # 💻 Tech Stack
@@ -55,8 +58,4 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Aditi-coder439/Aditi-coder439/blob/output/github-contribution-grid-snake.svg" />
-</p>
