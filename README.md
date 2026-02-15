@@ -4,7 +4,7 @@
 ☕ Java & DSA Enthusiast | ⚛️ React Developer | 🚀 MERN Stack Developer  
 
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
-Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications with the MERN stack.  
+Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
 
 📚 Continuous learner  
 📈 Growth-oriented mindset  
@@ -24,14 +24,35 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🛠 Backend & Database
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ### 🎨 Design
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Aditi-coder439&theme=ocean_dark&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Aditi-coder439&theme=ocean_dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&theme=ocean_dark&hide_border=true&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
+
+---
