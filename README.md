@@ -57,7 +57,6 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
 
 ---
----
 ## 🐍 My Contributions Snake
 
 <p align="center">
