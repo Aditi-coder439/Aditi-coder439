@@ -11,10 +11,8 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react-dark&hide_border=true&area=true" />
-
-
-
 </p>
+
 
 ---
 
@@ -47,6 +45,13 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
 ---
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
 
 # 📊 GitHub Stats
 
@@ -58,7 +63,6 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 
 ---
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
