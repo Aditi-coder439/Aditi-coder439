@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Aditi 👋</h1>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark&hide_border=true&area=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -46,14 +45,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+---
 
 ## 📫 Connect With Me
 
