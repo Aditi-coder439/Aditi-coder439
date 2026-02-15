@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Aditi 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=react-dark" />
+
 </p>
 
 ---
