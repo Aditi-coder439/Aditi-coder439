@@ -1,5 +1,4 @@
 <p align="center">
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Aditi%20Hazra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20|%20DSA%20|%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
@@ -10,16 +9,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3mcaa1htEHHojYMqbT/giphy.gif" width="320"/>
 </p>
+
 ---
-#💫About Me
+
+# 💫 About Me
 
 🎓 B.Tech in Information Technology | 3rd Year  
 ☕ Java & DSA Enthusiast | ⚛️ React Developer | 🚀 MERN Stack Developer  
 
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
 Currently strengthening my problem-solving skills through Data Structures & Algorithms in Java while developing responsive full-stack web applications using the MERN stack.
-
----
 
 # 💻 Tech Stack
 
