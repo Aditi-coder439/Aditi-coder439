@@ -45,7 +45,7 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="62%" />
   
 </p>
 
