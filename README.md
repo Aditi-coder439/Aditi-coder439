@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Aditi%20Hazra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20|%20DSA%20|%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
