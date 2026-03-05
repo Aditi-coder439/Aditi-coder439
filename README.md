@@ -11,11 +11,12 @@
 </p>
 # 💫 About Me
 
-🎓 B.Tech (Information Technology) | 3rd Year  
+🎓 B.Tech in Information Technology | 3rd Year  
 ☕ Java & DSA Enthusiast | ⚛️ React Developer | 🚀 MERN Stack Developer  
 
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
-Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
+Currently strengthening my problem-solving skills through Data Structures & Algorithms in Java while developing responsive full-stack web applications using the MERN stack.
+
 ---
 
 # 💻 Tech Stack
