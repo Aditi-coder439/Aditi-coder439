@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Aditi%20Hazra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20|%20DSA%20|%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
@@ -13,7 +12,7 @@
 
 ---
 
-<h1>💫 <b><span style="color:#C770F0;">About Me</span></b></h1>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%92%AB%20About%20Me&fontSize=28&fontColor=C770F0&animation=fadeIn" />
 
 🎓 B.Tech in Information Technology | 3rd Year  
 ☕ Java & DSA Enthusiast | ⚛️ React Developer | 🚀 MERN Stack Developer  
@@ -21,7 +20,7 @@
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
 Currently strengthening my problem-solving skills through Data Structures & Algorithms in Java while developing responsive full-stack web applications using the MERN stack.
 
-<h1>💻 <b><span style="color:#00F5FF;">Tech Stack</span></b></h1>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%92%BB%20Tech%20Stack&fontSize=28&fontColor=00F5FF&animation=fadeIn" />
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -50,7 +49,8 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
 ---
-<h2>📊 <b><span style="color:#FFD166;">GitHub Analytics</span></b></h2>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=26&fontColor=FFD166&animation=fadeIn" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="50%" /> 
@@ -58,13 +58,13 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 
 ---
 
-<h2>📫 <b><span style="color:#00FFB3;">Connect With Me</span></b></h2>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%93%AB%20Connect%20With%20Me&fontSize=26&fontColor=00FFB3&animation=fadeIn" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
 
 ---
 
-<h2>📈 <b><span style="color:#FF4D9D;">Contribution Graph</span></b></h2>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%93%88%20Contribution%20Graph&fontSize=26&fontColor=FF4D9D&animation=fadeIn" />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark" />
