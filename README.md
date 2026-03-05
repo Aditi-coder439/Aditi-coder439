@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3mcaa1htEHHojYMqbT/giphy.gif" width="320"/>
 </p>
-**# 💫 About Me**
+# 💫 **About Me**
 
 🎓 B.Tech in Information Technology | 3rd Year  
 ☕ Java & DSA Enthusiast | ⚛️ React Developer | 🚀 MERN Stack Developer  
