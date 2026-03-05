@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FFB3&height=250&section=header&text=Aditi%20Hazra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20|%20DSA%20|%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Domain+Expansion:+Unlimited+Coding;Java+%7C+MERN+%7C+DSA;Gojo+Energy+Activated+⚡" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Aditi%20Hazra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20|%20DSA%20|%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Domain+Expansion:+Unlimited+Coding;Java+%7C+MERN+%7C+DSA;Gojo+Energy+Activated+⚡;Purple+Technique:+Code+Hollow" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3mcaa1htEHHojYMqbT/giphy.gif" width="320"/>
+</p>
 # 💫 About Me
 
 🎓 B.Tech (Information Technology) | 3rd Year  
