@@ -13,9 +13,7 @@
 
 ---
 
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%92%AB%20About%20Me&fontSize=28&fontColor=C770F0&animation=fadeIn" />
-</div>
+# 💫 About Me
 
 🎓 B.Tech in Information Technology | 3rd Year  
 ☕ Java & DSA Enthusiast | ⚛️ React Developer | 🚀 MERN Stack Developer  
@@ -23,9 +21,7 @@
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
 Currently strengthening my problem-solving skills through Data Structures & Algorithms in Java while developing responsive full-stack web applications using the MERN stack.
 
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%92%BB%20Tech%20Stack&fontSize=28&fontColor=00F5FF&animation=fadeIn" />
-</div>
+# 💻 Tech Stack
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -55,27 +51,20 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 
 ---
 
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=26&fontColor=FFD166&animation=fadeIn" />
-</div>
-
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="50%" /> 
 </p>
 
 ---
 
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%93%AB%20Connect%20With%20Me&fontSize=26&fontColor=00FFB3&animation=fadeIn" />
-</div>
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
 
 ---
 
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%F0%9F%93%88%20Contribution%20Graph&fontSize=26&fontColor=FF4D9D&animation=fadeIn" />
-</div>
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark" />
