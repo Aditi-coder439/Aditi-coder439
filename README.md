@@ -69,14 +69,16 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 </p>
 ## ⚡ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Aditi-coder439/Crudfsp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi-coder439&repo=Crudfsp&theme=tokyonight" />
-  </a>
+## ⚡ Featured Projects
 
-  <a href="https://github.com/Aditi-coder439/MernfspPhase2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi-coder439&repo=MernfspPhase2&theme=tokyonight" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi-coder439&repo=Crudfsp&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi-coder439&repo=MernfspPhase2&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi-coder439&repo=krish&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi-coder439&repo=mental-health-assistant&theme=tokyonight" />
 </p>
 
 <p align="center">
