@@ -68,12 +68,4 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Aditi-coder439/krish">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi-coder439&repo=krish&theme=tokyonight" />
-  </a>
 
-  <a href="https://github.com/Aditi-coder439/mental-health-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi-coder439&repo=mental-health-assistant&theme=tokyonight" />
-  </a>
-</p>
