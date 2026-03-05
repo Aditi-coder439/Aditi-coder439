@@ -1,10 +1,21 @@
-name: Generate Snake Fresh
+name: Generate Snake
 
 on:
   workflow_dispatch:
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - run: echo "working"
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Aditi-coder439
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
