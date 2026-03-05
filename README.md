@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Domain+Expansion:+Unlimited+Coding;Java+%7C+MERN+%7C+DSA;Gojo+Energy+Activated+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=E100FF&center=true&vCenter=true&width=750&lines=Domain+Expansion:+Unlimited+Coding;Java+%7C+MERN+%7C+DSA;Gojo+Energy+Activated+⚡" />
 </p>
 
 <p align="center">
@@ -12,12 +12,7 @@
 
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
-</p>
-
----
-
-# 💫 About Me
-
+</p> 
 ---
 
 # 💫 About Me
