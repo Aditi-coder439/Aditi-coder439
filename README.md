@@ -55,6 +55,7 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditi-coder439/Aditi-coder439/output/github-contribution-grid-snake-dark.svg?raw=true" />
 </p>
