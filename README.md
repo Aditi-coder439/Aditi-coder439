@@ -9,12 +9,11 @@
 
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
 Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
-
-
 ---
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 </p>
+
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -52,6 +51,9 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w5OGd1b2M5M2QxN2t1cWJ5OWI5aDJjM2Q4dGx5OWc5NjN6bDV0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="220"/>
+</p>
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
