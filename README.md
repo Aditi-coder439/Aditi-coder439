@@ -56,7 +56,7 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 ---
 
-## 🐍 My Contributions Snake
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark" />
