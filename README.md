@@ -10,6 +10,14 @@
   <img src="https://media.giphy.com/media/3mcaa1htEHHojYMqbT/giphy.gif" width="320"/>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="100%">
+</p>
+
+---
+
+# 💫 About Me
+
 ---
 
 # 💫 About Me
