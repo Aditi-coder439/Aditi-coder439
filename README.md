@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FFB3&height=250&section=header&text=Aditi%20Hazra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20|%20DSA%20|%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Domain+Expansion:+Unlimited+Coding;Java+%7C+MERN+%7C+DSA;Gojo+Energy+Activated+⚡" />
+</p>
 
 # 💫 About Me
 
@@ -10,9 +13,6 @@
 I am a passionate and self-driven developer focused on building scalable and impactful software solutions.  
 Currently strengthening my foundation in Data Structures & Algorithms using Java while developing responsive, full-stack web applications using the MERN stack.  
 ---
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-</p>
 
 # 💻 Tech Stack
 
@@ -44,16 +44,11 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 ---
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="50%" />
-  
+  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="50%" /> 
 </p>
-
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w5OGd1b2M5M2QxN2t1cWJ5OWI5aDJjM2Q4dGx5OWc5NjN6bDV0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="220"/>
-</p>
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-hazra-5b3816341)
