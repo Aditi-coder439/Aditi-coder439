@@ -1,9 +1,10 @@
 <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Aditi%20Hazra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20|%20DSA%20|%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Domain+Expansion:+Unlimited+Coding;Java+%7C+MERN+%7C+DSA;Gojo+Energy+Activated+⚡;Purple+Technique:+Code+Hollow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Domain+Expansion:+Unlimited+Coding;Java+%7C+MERN+%7C+DSA;Gojo+Energy+Activated+⚡" />
 </p>
 
 <p align="center">
