@@ -12,7 +12,9 @@ Currently strengthening my foundation in Data Structures & Algorithms using Java
 
 
 ---
-
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
+</p>
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
