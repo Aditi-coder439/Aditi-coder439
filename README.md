@@ -34,11 +34,13 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 
 ---
 
-<h1 align="center">📊 GitHub Analytics</h1>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditi-coder439&theme=tokyonight&hide_border=true" width="55%" /> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditi-coder439&show_icons=true&theme=tokyonight&hide_border=true&ring_color=7F00FF&icon_color=E100FF&title_color=E100FF&text_color=FFFFFF"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-coder439&layout=compact&theme=tokyonight&hide_border=true&title_color=E100FF&text_color=FFFFFF"/>
 </p>
+
 
 ---
 
