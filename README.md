@@ -59,14 +59,6 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 </p>
 
 ---
-
-## 🧊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=tokyo-night&hide_border=true&area=true&custom_title=Live%20Contribution%20Graph" />
-</p>
-
----
 <h1 align="center">📫 Connect With Me</h1>
 
 <p align="center">
