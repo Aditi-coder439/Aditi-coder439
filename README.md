@@ -52,7 +52,27 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 
 ---
 
-<h1 align="center">📈 Contribution Graph</h1>
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditi-coder439&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditi-coder439&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditi-coder439&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditi-coder439&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditi-coder439&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark" />
