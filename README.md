@@ -28,6 +28,9 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 
 <h1 align="center">💻 Tech Stack</h1>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,git,github,aws,gcp,postman&perline=8" />
+</p>
 <h2>👨‍💻 Languages</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white)
