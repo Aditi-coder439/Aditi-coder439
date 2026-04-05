@@ -42,18 +42,6 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 
 ---
 
-<h1 align="center">📫 Connect With Me</h1>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aditi-hazra-5b3816341">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
----
-
 ## 📊 GitHub Dashboard
 
 <p align="center">
@@ -77,3 +65,13 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-coder439&theme=github-dark" />
 </p>
+---
+<h1 align="center">📫 Connect With Me</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aditi-hazra-5b3816341">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+
