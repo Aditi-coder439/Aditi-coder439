@@ -28,35 +28,69 @@
 ☕ Java & DSA Enthusiast | ⚛️ React Developer | 🚀 MERN Stack Developer
 </h3>
 
-<p align="center">
-I am a passionate and self-driven developer focused on building scalable and impactful software solutions.<br>
-Currently strengthening my problem-solving skills through Data Structures & Algorithms in Java while developing responsive full-stack web applications using the MERN stack.
-</p>
-
 ---
 
 <h1 align="center">💻 Tech Stack</h1>
-
 <h3 align="center">Languages & Frameworks</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,git,github,aws,gcp,postman,mongodb,mysql&theme=dark" />
-</p>
-
-<details open>
-<summary align="left"><b>📁 Professional Skillset</b></summary>
-<br />
-<p align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-</details>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
