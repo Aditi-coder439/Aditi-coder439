@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditi-coder439&label=PROFILE+VIEWS&color=E100FF&style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=800&color=E100FF&center=true&vCenter=true&width=850&lines=Domain+Expansion:+Unlimited+Coding;Java+%7C+MERN+%7C+DSA;Gojo+Energy+Activated+⚡" />
 </p>
 
