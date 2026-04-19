@@ -14,6 +14,10 @@
 
 <h1 align="center">💫 About Me</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursed_Technique-MERN_Stack-blueviolet?style=flat-square" />
+</p>
+
 <h3 align="center">
 🎓 B.Tech in Information Technology | 3rd Year <br>
 ☕ Java & DSA Enthusiast | ⚛️ React Developer | 🚀 MERN Stack Developer
@@ -59,5 +63,3 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
-
