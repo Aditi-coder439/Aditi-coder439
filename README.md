@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cursed_Technique-MERN_Stack-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rank-Special_Grade_Developer-white?style=flat-square&labelColor=E100FF" />
 </p>
 
 <h3 align="center">
@@ -36,10 +37,26 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
 
 <h1 align="center">💻 Tech Stack</h1>
 
+<h3 align="center">Languages & Frameworks</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,git,github,aws,gcp,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,git,github,aws,gcp,postman,mongodb,mysql&theme=dark" />
 </p>
 
+<details open>
+<summary align="left"><b>📁 Professional Skillset</b></summary>
+<br />
+<p align="left">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+</details>
 
 ---
 
@@ -59,11 +76,22 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditi-coder439&theme=tokyonight&utcOffset=5.5" />
 </p>
 
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user=Aditi-coder439&color_snake=%23E100FF&color_dots=%23ebedf0%2C%237f00ff%2C%23e100ff%2C%23bc00ff%2C%236a00ff" alt="snake" />
+</p>
+
 ---
+
 <h1 align="center">📫 Connect With Me</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aditi-hazra-5b3816341">
+<a href="https://www.linkedin.com/in/aditi-hazra-5b3816341" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Aditi-coder439/" target="blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 </p>
