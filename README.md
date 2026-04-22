@@ -126,9 +126,6 @@ Currently strengthening my problem-solving skills through Data Structures & Algo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditi-coder439&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user=Aditi-coder439&color_snake=%23E100FF&color_dots=%23ebedf0%2C%237f00ff%2C%23e100ff%2C%23bc00ff%2C%236a00ff" alt="snake" />
-</p>
 
 ---
 
